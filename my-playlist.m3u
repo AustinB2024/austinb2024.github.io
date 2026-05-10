@@ -7,3 +7,5 @@ https://store.sportsbite.online/api/proxy/hls?url=https%3A%2F%2Fedge.cdnlivetv.r
 #EXTINF:-1 tvg-id="ABC" group-title="News",ABC HD
 https://edge.cdnlivetv.ru/secure/api/v1/us-abc/playlist.m3u8?token=e1dfe95b55b964b2e6d2621e6e41913f33a0f3d3620602622acb8ae9a1151956.1778356616.c017bb663afedfa129693e11eabaa108.4dea640b6bb8c00a0ea0f530b28f7620.882a0eb75d92d06b8eab948fc6f6bb0c&signature=8d1d644c4d996842a6d44f832c355e59b2136b86ead8cea55029c3f28b86f4cb
 
+#EXTINF:-1 tvg-id="ABC 3" group-title="News",ABC HD
+https://cdnlivetv.tv/api/v1/channels/player/?name=abc&code=us&user=cdnlivetv&plan=free
